@@ -2,9 +2,9 @@
   
 ⚖  Atualmente estudo python <br>
 📕  Aprendendo Angular <br>
-🎓 Cursando Análise de Desenvolvimento em Sistemas (3° semestre) <br>
-🐧 Tenho conhecimentos básicos de linux <br>
-🪑  Conhecimento básico de SQL <br>
+🎓 Cursando Análise de Desenvolvimento em Sistemas (4° semestre) <br>
+🐧 Tenho conhecimentos de linux <br>
+🪑  Conhecimento intermediário em SQL <br>
 📲  Contate-me no e-mail: carreira.rodney@gmail.com <br>
 
 
